@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## VIEW IT LIVE
 
-You can view this project without needing to download it[ here]("https://vite-demo-bay.vercel.app/").
+You can view this project without needing to download it [here]("https://vite-demo-bay.vercel.app/").
 
 Currently, two official plugins are available:
 
